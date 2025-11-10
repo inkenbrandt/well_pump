@@ -4,3 +4,9 @@
 IRRIGATION_MASTER.txt
 .env
 /.env
+/gis_files/wrlu.geojson
+/src/well_pump/__pycache__
+/output_tables/zonal_stats_monthly_polygons_pou_oet.csv
+/output_tables/wlactivity.txt
+/output_tables/wlWaterLevel.txt
+/output_tables/wlwellfeatures.txt
